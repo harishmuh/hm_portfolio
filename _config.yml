@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "HM's Portfolio"
 title_separator          : "-"
-name                     : &name "Harish Muhammad"
+name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://harishmuh.github.io/hm_portfolio.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Bandung"
-  employer         : ""
+  employer         : "Red Brick University"
   uri              : # URL
   email            : "harishmuh@gmail.com" 
 
